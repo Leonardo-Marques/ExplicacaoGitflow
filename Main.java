@@ -7,6 +7,7 @@ public class Main {
 
         System.out.println("AQUI vou codar os cenarios da branch feature sacola");
         //merge
+        //arrumei com reset hard
     }
 
     //alteracao2
